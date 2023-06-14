@@ -48,6 +48,17 @@ Based on the findings, analyze which algorithm performs the best in terms of bot
 ![jco](https://github.com/MiladAlipour98/Community_Detection/assets/105122009/47de8198-3890-4d91-9fab-4258d38c41ce)
 
 ### Representative Network
-Create and visualize the representative network for one community detection method for each dataset. The representative network should have one node per cluster, with node size representing the community size. Edges between clusters should reflect the number of cross-community edges between nodes in the respective clusters. Submit the program for creating the representative networks and the visualization via GitHub with the filename "problem3BONUS.py". Include the repository name of your team in your submission.
+Create and visualize the representative network for one community detection method for each dataset. The representative network should have one node per cluster, with node size representing the community size. Edges between clusters should reflect the number of cross-community edges between nodes in the respective clusters. 
+
+#### Dolphins Dataset Gephi Output
+
+![image](https://github.com/MiladAlipour98/Community_Detection/assets/105122009/75950542-c1f9-41d5-b1ef-9d89a8261e86)
 
 
+#### Karate Dataset Gephi Output
+![image](https://github.com/MiladAlipour98/Community_Detection/assets/105122009/830bb9e0-ca37-48e2-a647-7926c3b61fe7)
+
+
+#### Jazz Dataset Gephi Output
+
+![image](https://github.com/MiladAlipour98/Community_Detection/assets/105122009/e1e5077f-6511-4a82-82c3-9f4c465dbe98)
